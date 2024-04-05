@@ -451,7 +451,7 @@ svg {
 
 @media (min-width: 770px) {
   .detail-screen {
-    grid-template-columns: minmax(400px, auto) auto;
+    grid-template-columns: minmax(10px, auto) auto;
   }
 }
 
@@ -468,9 +468,9 @@ svg {
 }
 
 .content {
-  display: flex;
-  justify-content: center;
-  padding: 50px;
+  display: auto;
+  justify-content: right;
+  padding: 100px;
 }
 
 @media (min-width: 770px) {
