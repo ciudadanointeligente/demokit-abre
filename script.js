@@ -6,7 +6,7 @@ Follow me on twitter for more: https://twitter.com/HunorBorbely
 
 */
 
-function Decoration({ size = 1 }) {
+function Image0({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -15,9 +15,9 @@ function Decoration({ size = 1 }) {
   ));
 }
 
-detailScreens[0].svg = Decoration;
+detailScreens[0].svg = Image0;
 
-function Three({ size = 1 }) {
+function Image1({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -26,9 +26,9 @@ function Three({ size = 1 }) {
   ));
 }
 
-detailScreens[1].svg = Three;
+detailScreens[1].svg = Image1;
 
-function Gingerbread({ size = 1 }) {
+function Image2({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -37,9 +37,9 @@ function Gingerbread({ size = 1 }) {
   ));
 }
 
-detailScreens[2].svg = Gingerbread;
+detailScreens[2].svg = Image2;
 
-function House({ size = 1 }) {
+function Image3({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -48,9 +48,9 @@ function House({ size = 1 }) {
   ));
 }
 
-detailScreens[3].svg = House;
+detailScreens[3].svg = Image3;
 
-function DecorationWithClip({ size = 1 }) {
+function Image4({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -59,9 +59,9 @@ function DecorationWithClip({ size = 1 }) {
   ));
 }
 
-detailScreens[4].svg = DecorationWithClip;
+detailScreens[4].svg = Image4;
 
-function Star({ size = 1 }) {
+function Image5({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -70,9 +70,9 @@ function Star({ size = 1 }) {
   ));
 }
 
-detailScreens[5].svg = Star;
+detailScreens[5].svg = Image5;
 
-function Snowflake({ size = 1 }) {
+function Image6({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -81,9 +81,9 @@ function Snowflake({ size = 1 }) {
   ));
 }
 
-detailScreens[6].svg = Snowflake;
+detailScreens[6].svg = Image6;
 
-function Forest({ size = 1 }) {
+function Image7({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -92,9 +92,9 @@ function Forest({ size = 1 }) {
   ));
 }
 
-detailScreens[7].svg = Forest;
+detailScreens[7].svg = Image7;
 
-function DecorationWithGradient({ size = 1 }) {
+function Image8({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -103,9 +103,9 @@ function DecorationWithGradient({ size = 1 }) {
   ));
 }
 
-detailScreens[8].svg = DecorationWithGradient;
+detailScreens[8].svg = Image8;
 
-function Snowman({ size = 1 }) {
+function Image9({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -114,9 +114,9 @@ function Snowman({ size = 1 }) {
   ));
 }
 
-detailScreens[9].svg = Snowman;
+detailScreens[9].svg = Image9;
 
-function ThreeWithCurves({ size = 1 }) {
+function Image10({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -125,9 +125,9 @@ function ThreeWithCurves({ size = 1 }) {
   ));
 }
 
-detailScreens[10].svg = ThreeWithCurves;
+detailScreens[10].svg = Image10;
 
-function Gift({ size = 1 }) {
+function Image11({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -136,9 +136,9 @@ function Gift({ size = 1 }) {
   ));
 }
 
-detailScreens[11].svg = Gift;
+detailScreens[11].svg = Image11;
 
-function Bell({ size = 1 }) {
+function Image12({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -147,9 +147,9 @@ function Bell({ size = 1 }) {
   ));
 }
 
-detailScreens[12].svg = Bell;
+detailScreens[12].svg = Image12;
 
-function Candy({ size = 1 }) {
+function Image13({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -158,9 +158,9 @@ function Candy({ size = 1 }) {
   ));
 }
 
-detailScreens[13].svg = Candy;
+detailScreens[13].svg = Image13;
 
-function Ribbon({ size = 1 }) {
+function Image14({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -169,9 +169,9 @@ function Ribbon({ size = 1 }) {
   ));
 }
 
-detailScreens[14].svg = Ribbon;
+detailScreens[14].svg = Image14;
 
-function Bear({ size = 1 }) {
+function Image15({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -180,9 +180,9 @@ function Bear({ size = 1 }) {
   ));
 }
 
-detailScreens[15].svg = Bear;
+detailScreens[15].svg = Image15;
 
-function Text({ size = 1 }) {
+function Image16({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -191,9 +191,9 @@ function Text({ size = 1 }) {
   ));
 }
 
-detailScreens[16].svg = Text;
+detailScreens[16].svg = Image16;
 
-function Sleigh({ size = 1 }) {
+function Image17({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -202,9 +202,9 @@ function Sleigh({ size = 1 }) {
   ));
 }
 
-detailScreens[17].svg = Sleigh;
+detailScreens[17].svg = Image17;
 
-function RingingBell({ size = 1 }) {
+function Image18({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -213,9 +213,9 @@ function RingingBell({ size = 1 }) {
   ));
 }
 
-detailScreens[18].svg = RingingBell;
+detailScreens[18].svg = Image18;
 
-function Snowing({ size = 1 }) {
+function Image19({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -224,9 +224,9 @@ function Snowing({ size = 1 }) {
   ));
 }
 
-detailScreens[19].svg = Snowing;
+detailScreens[19].svg = Image19;
 
-function Background({ size = 1 }) {
+function Image20({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -235,10 +235,10 @@ function Background({ size = 1 }) {
   ));
 }
 
-detailScreens[20].svg = Background;
+detailScreens[20].svg = Image20;
 
 
-function Clock({ size = 1 }) {
+function Image21({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -247,9 +247,9 @@ function Clock({ size = 1 }) {
   ));
 }
 
-detailScreens[21].svg = Clock;
+detailScreens[21].svg = Image21;
 
-function Lights({ size = 1 }) {
+function Image22({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -258,9 +258,9 @@ function Lights({ size = 1 }) {
   ));
 }
 
-detailScreens[22].svg = Lights;
+detailScreens[22].svg = Image22;
 
-function Diagram({ size = 1 }) {
+function Image23({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -269,11 +269,11 @@ function Diagram({ size = 1 }) {
   ));
 }
 
-detailScreens[23].svg = Diagram;
+detailScreens[23].svg = Image23;
 
 
 
-function SnowGlobe({ size = 1 }) {
+function Image24({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
@@ -282,7 +282,7 @@ function SnowGlobe({ size = 1 }) {
   ));
 }
 
-detailScreens[24].svg = SnowGlobe;
+detailScreens[24].svg = Image24;
 
 function Day({ index, Component, select }) {
   const onMouseEnter = event => event.currentTarget.style["z-index"] = 10;
@@ -319,33 +319,29 @@ function App() {
     React.createElement("p", null, "Herramientas para la democracia local")), /*#__PURE__*/
 
     React.createElement("div", { className: "block" }, /*#__PURE__*/
-    React.createElement(Day, { index: 0, Component: Decoration, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 1, Component: Three, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 2, Component: Gingerbread, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 3, Component: House, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 4, Component: DecorationWithClip, select: setSelection })), /*#__PURE__*/
+    React.createElement(Day, { index: 0, Component: Image0, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 1, Component: Image1, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 2, Component: Image2, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 3, Component: Image3, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 4, Component: Image4, select: setSelection })), /*#__PURE__*/
 
     React.createElement("div", { className: "block" }, /*#__PURE__*/
-    React.createElement(Day, { index: 5, Component: Star, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 6, Component: Snowflake, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 7, Component: Forest, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, {
-      index: 8,
-      Component: DecorationWithGradient,
-      select: setSelection }), /*#__PURE__*/
-
-    React.createElement(Day, { index: 9, Component: Snowman, select: setSelection })), /*#__PURE__*/
+    React.createElement(Day, { index: 5, Component: Image5, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 6, Component: Image6, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 7, Component: Image7, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 8, Component: Image8, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 9, Component: Image9, select: setSelection })), /*#__PURE__*/
 
 
     React.createElement("div", { className: "block" }, /*#__PURE__*/
-    React.createElement(Day, { index: 10, Component: ThreeWithCurves, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 11, Component: Gift, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 12, Component: Bell, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 13, Component: Candy, select: setSelection })), /*#__PURE__*/
+    React.createElement(Day, { index: 10, Component: Image10, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 11, Component: Image11, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 12, Component: Image12, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 13, Component: Image13, select: setSelection })), /*#__PURE__*/
 
 
     React.createElement("div", { className: "big-block" }, /*#__PURE__*/
-    React.createElement(Day, { index: 14, Component: Ribbon, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 14, Component: Image14, select: setSelection }), /*#__PURE__*/
 
     React.createElement("div", { class: "day twitter" }, "Síguenos", /*#__PURE__*/
 
@@ -354,19 +350,19 @@ function App() {
 
 
 
-    React.createElement(Day, { index: 15, Component: Bear, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 16, Component: Text, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 17, Component: Sleigh, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 18, Component: RingingBell, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 19, Component: Snowing, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 20, Component: Background, select: setSelection })), /*#__PURE__*/
+    React.createElement(Day, { index: 15, Component: Image15, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 16, Component: Image16, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 17, Component: Image17, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 18, Component: Image18, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 19, Component: Image19, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 20, Component: Image20, select: setSelection })), /*#__PURE__*/
 
 
     React.createElement("div", { className: "small-block" }, /*#__PURE__*/
-    React.createElement(Day, { index: 21, Component: Clock, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 22, Component: Lights, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 23, Component: Diagram, select: setSelection }), /*#__PURE__*/
-    React.createElement(Day, { index: 24, Component: SnowGlobe, select: setSelection }))),
+    React.createElement(Day, { index: 21, Component: Image21, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 22, Component: Image22, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 23, Component: Image23, select: setSelection }), /*#__PURE__*/
+    React.createElement(Day, { index: 24, Component: Image24, select: setSelection }))),
 
 
     selection != undefined && /*#__PURE__*/
@@ -384,14 +380,6 @@ function App() {
 
 
 ))));
-
-
-
-
-
-
-
-
 
 
 }
