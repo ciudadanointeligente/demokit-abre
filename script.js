@@ -21,7 +21,7 @@ function Three({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268615727.gif"},
     null
   ));
 }
@@ -32,7 +32,7 @@ function Gingerbread({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268735155.gif"},
     null
   ));
 }
@@ -43,7 +43,7 @@ function House({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268777488.gif"},
     null
   ));
 }
@@ -54,7 +54,7 @@ function DecorationWithClip({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268951829.gif"},
     null
   ));
 }
@@ -76,7 +76,7 @@ function Snowflake({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268615727.gif"},
     null
   ));
 }
@@ -87,7 +87,7 @@ function Forest({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268735155.gif"},
     null
   ));
 }
@@ -98,7 +98,7 @@ function DecorationWithGradient({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268777488.gif"},
     null
   ));
 }
@@ -109,7 +109,7 @@ function Snowman({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268951829.gif"},
     null
   ));
 }
@@ -131,7 +131,7 @@ function Gift({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268615727.gif"},
     null
   ));
 }
@@ -142,7 +142,7 @@ function Bell({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268777488.gif"},
     null
   ));
 }
@@ -164,7 +164,7 @@ function Ribbon({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268951829.gif"},
     null
   ));
 }
@@ -186,7 +186,7 @@ function Text({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268777488.gif"},
     null
   ));
 }
@@ -197,7 +197,7 @@ function Sleigh({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268615727.gif"},
     null
   ));
 }
@@ -208,7 +208,7 @@ function RingingBell({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268735155.gif"},
     null
   ));
 }
@@ -219,7 +219,7 @@ function Snowing({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268777488.gif"},
     null
   ));
 }
@@ -242,7 +242,7 @@ function Clock({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268951829.gif"},
     null
   ));
 }
@@ -264,7 +264,7 @@ function Diagram({ size = 1 }) {
   return /*#__PURE__*/(
     React.createElement(
     "img",
-    {src: "./1712268485464.gif"},
+    {src: "./1712268777488.gif"},
     null
   ));
 }
